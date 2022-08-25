@@ -8,4 +8,4 @@
 [![nthack's GitHub stats](https://github-readme-stats.vercel.app/api?username=nthack&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![](https://komarev.com/ghpvc/?username=nthack&style=for-the-badge&label=訪客人數)](https://github.com/antonkomarev/github-profile-views-counter)
+[![](https://komarev.com/ghpvc/?username=nthack&style=for-the-badge&label=Visitor+count)](https://github.com/antonkomarev/github-profile-views-counter)
