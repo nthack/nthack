@@ -22,4 +22,4 @@
 
 <br>
 
-[![](https://komarev.com/ghpvc/?username=nthack&style=for-the-badge&label=Visitor+count&color=red)](https://github.com/antonkomarev/github-profile-views-counter)
+[![](https://komarev.com/ghpvc/?username=nthack&style=for-the-badge&label=Visitor+count&color=orange)](https://github.com/antonkomarev/github-profile-views-counter)
